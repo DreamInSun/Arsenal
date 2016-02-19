@@ -7,7 +7,7 @@
     <!--========== Properties ==========-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <arsenal.version>0.0.2</arsenal.version>
+        <arsenal.version>0.0.3-SNAPSHOT</arsenal.version>
         <slf4j.version>1.7.5</slf4j.version>
     </properties>
 
