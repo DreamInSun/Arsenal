@@ -33,6 +33,7 @@
         <module>Arsenal-Crypto</module>
         <module>Arseal-Terminal</module>
         <module>Arsenal-Utils</module>
+        <module>Arsenal-Collections</module>
     </modules>
 
     <!--========== Global Dependence ===========-->

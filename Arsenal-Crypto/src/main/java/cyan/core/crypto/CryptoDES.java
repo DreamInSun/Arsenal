@@ -1,4 +1,4 @@
-package cyan.util.crypto;
+package cyan.core.util.crypto;
 
 import java.security.SecureRandom;
 
