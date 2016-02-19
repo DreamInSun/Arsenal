@@ -14,7 +14,7 @@
     <!-- ========== Project Info ========== -->
     <groupId>cyan.core</groupId>
     <artifactId>Arsenal</artifactId>
-    <version>${arsenal.version}</version>
+    <version>0.0.2</version>
     <description>Cyan's Utils</description>
     <packaging>pom</packaging>
 
@@ -28,10 +28,10 @@
     <modules>
         <module>Arsenal-Console</module>
         <module>Arsenal-Config</module>
-        <module>Arsenal-Crypto</module>
-        <module>Arsenal-Terminal</module>
-        <module>Arsenal-Utils</module>
-        <module>Arsenal-Collections</module>
+        <!--<module>Arsenal-Crypto</module>-->
+        <!--<module>Arsenal-Terminal</module>-->
+        <!--<module>Arsenal-Utils</module>-->
+        <!--<module>Arsenal-Collections</module>-->
     </modules>
 
     <!--========== Global Dependence ===========-->
