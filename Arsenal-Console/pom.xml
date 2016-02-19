@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Arsenal-Consol</artifactId>
+    <artifactId>Arsenal-Console</artifactId>
     <version>${arsenal.version}</version>
 
     <!-- =============================================== -->
