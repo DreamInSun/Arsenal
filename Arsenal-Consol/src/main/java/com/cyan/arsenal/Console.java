@@ -1,5 +1,8 @@
 package com.cyan.arsenal;
 
+/**
+ *
+ */
 public class Console {
 
 	/*========== Constants ==========*/

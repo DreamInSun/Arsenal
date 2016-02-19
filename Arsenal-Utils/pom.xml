@@ -9,9 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Arsenal-Consol</artifactId>
+    <artifactId>Arsenal-Utils</artifactId>
     <version>${arsenal.version}</version>
-
     <!-- =============================================== -->
     <!-- ==================== Build ==================== -->
     <!-- =============================================== -->
@@ -27,12 +26,11 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <!--<mainClass>com.cyan.arsenal.Console</mainClass>-->
+                            <mainClass>cyan.core.crypto</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 </project>

@@ -7,7 +7,7 @@
     <!--========== Properties ==========-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <arsenal.version>1.0-SNAPSHOT</arsenal.version>
+        <arsenal.version>0.0.2</arsenal.version>
         <slf4j.version>1.7.5</slf4j.version>
     </properties>
 
@@ -30,6 +30,9 @@
         <module>Arsenal-Config</module>
         <module>Arsenal-Consol</module>
         <module>Arsenal-Config</module>
+        <module>Arsenal-Crypto</module>
+        <module>Arseal-Terminal</module>
+        <module>Arsenal-Utils</module>
     </modules>
 
     <!--========== Global Dependence ===========-->
