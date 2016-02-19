@@ -1,0 +1,6 @@
+﻿#过滤工程文件夹
+*.iml
+.idea/
+logs
+Arsenal-Config/target/*
+Arsenal-Consol/target/* 
