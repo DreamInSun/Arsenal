@@ -3,4 +3,8 @@
 .idea/
 logs
 Arsenal-Config/target/*
-Arsenal-Consol/target/* 
+Arsenal-Console/target/*
+Arsenal-Collections/target/*
+Arsenal-Crypto/target/*
+Arsenal-Terminal/target/*
+Arsenal-Utils/target/*

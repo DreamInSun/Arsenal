@@ -27,7 +27,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>cyan.demo.cicd.App</mainClass>
+                            <!--<mainClass>cyan.core.config</mainClass>-->
                         </manifest>
                     </archive>
                 </configuration>
